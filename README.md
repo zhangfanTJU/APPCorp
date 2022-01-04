@@ -35,6 +35,9 @@ python train.py --config_file bert.cfg --emb bert --gpu 0 --fold 9
 python train.py --config_file bert.cfg --emb bert --use_graph --gpu 0 --fold 9
 ```
 
+## Classification Models
+Download classification models from [Baidu Cloud](https://pan.baidu.com/s/1zjusT-VdFXnyfdw7oADThQ) (Code: siin).
+
 ## Citation
 
 ```bibtex
@@ -43,5 +46,3 @@ python train.py --config_file bert.cfg --emb bert --use_graph --gpu 0 --fold 9
   author={Shuang Liu, Fan Zhang, Baiyang Zhao, Renjie Guo, Tao Chen and Meishan Zhang}
 }
 ```
-
-
